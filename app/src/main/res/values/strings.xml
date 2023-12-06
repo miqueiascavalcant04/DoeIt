@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">helpme</string>
+    <string name="home">Home</string>
+    <string name="usuario" />
+    <string name="configura_es">Configuracoes</string>
+    <string name="Usuario">usuario</string>
+    <string name="Menu" />
+    <string name="pesquisar">Pesquisar</string>
+    <string name="ol">Olá</string>
+    <string name="informa_es">Informações</string>
+    <string name="conversas_ativas">Conversas Ativas</string>
+    <string name="doa_es_solicitadas">Doações Solicitadas</string>
+    <string name="doa_es_recebidas">Doações Recebidas</string>
+    <string name="doa_oes_dispon_veis">Doaçoes Disponíveis</string>
+    <string name="blablablablabla">blablablablabla</string>
+</resources>
